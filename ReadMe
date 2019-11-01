@@ -1,0 +1,7 @@
+Kannada is a language spoken predominantly by people of Karnataka in southwestern India.
+The language has roughly 45 million native speakers and is written using the Kannada script. 
+In this project we develop a code based on a Convolutional Neural Network to identify the kannada numbers
+
+This project is a part of the Kaggle Challenge to identify numbers in kannada.
+The link to the challenge is as given below:
+https://www.kaggle.com/c/Kannada-MNIST
